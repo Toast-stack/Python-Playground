@@ -33,3 +33,7 @@ The result is: 15.0
 ## Future Improvements
 - Add a looping mechanism to allow multiple calculations in one session.
 - Expand operations to include power/exponentiation and squre root calculations.
+
+## Additional Resources
+- **Resource**: [Python.org Official Documentation on Input/Output](https://docs.python.org/3/tutorial/inputoutput.html)
+- **Tutorial**: [Python Basics for Beginners - W3Schools](https://www.w3schools.com/python/python_user_input.asp)
