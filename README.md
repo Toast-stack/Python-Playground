@@ -1,15 +1,15 @@
-# 🐍 Python Playground
+# Python Playground
 
-## 🎉 Welcome  
+## Welcome  
 This repository is a space to experiment, learn, and build with Python. Whether you're a beginner exploring the language or an experienced developer experimenting with new libraries, this is the place for you!
 
-## 🚀 About This Repo  
+## About This Repo  
 Here, you'll find:  
 - Code snippets demonstrating Python fundamentals.  
 - Mini-projects to reinforce your learning.  
 - Tools and scripts for automation and problem-solving.  
 
-## 📚 Python Learning Resources  
+## Python Learning Resources  
 
 ### Beginner-Friendly Tutorials  
 - [Python Official Documentation](https://docs.python.org/3/tutorial/) - Your go-to resource for Python basics and beyond.  
@@ -30,8 +30,8 @@ Here, you'll find:
 - [r/learnpython (Reddit)](https://www.reddit.com/r/learnpython/) - A helpful community for getting tips and asking questions.  
 - [Stack Overflow: Python Questions](https://stackoverflow.com/questions/tagged/python) - Perfect for troubleshooting and problem-solving.
 
-## 💡 Contribution Guidelines  
+## Contribution Guidelines  
 Contributions are welcome! Feel free to create a pull request or open an issue to suggest enhancements.
 
-## 📫 Contact  
+## Contact  
 Got questions or suggestions? Reach out here or through [LinkedIn](https://www.linkedin.com/in/zachary-nicholas1341/)!
